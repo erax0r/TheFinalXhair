@@ -1,0 +1,12 @@
+c:\users\andrew\documents\visual studio 2012\Projects\TheFinalXhair\TheFinalXhair\bin\Debug\TheFinalXhair.exe.config
+c:\users\andrew\documents\visual studio 2012\Projects\TheFinalXhair\TheFinalXhair\bin\Debug\TheFinalXhair.exe
+c:\users\andrew\documents\visual studio 2012\Projects\TheFinalXhair\TheFinalXhair\bin\Debug\TheFinalXhair.pdb
+c:\users\andrew\documents\visual studio 2012\Projects\TheFinalXhair\TheFinalXhair\obj\Debug\MainWindow.baml
+c:\users\andrew\documents\visual studio 2012\Projects\TheFinalXhair\TheFinalXhair\obj\Debug\MainWindow.g.cs
+c:\users\andrew\documents\visual studio 2012\Projects\TheFinalXhair\TheFinalXhair\obj\Debug\App.g.cs
+c:\users\andrew\documents\visual studio 2012\Projects\TheFinalXhair\TheFinalXhair\obj\Debug\TheFinalXhair_MarkupCompile.cache
+c:\users\andrew\documents\visual studio 2012\Projects\TheFinalXhair\TheFinalXhair\obj\Debug\TheFinalXhair.g.resources
+c:\users\andrew\documents\visual studio 2012\Projects\TheFinalXhair\TheFinalXhair\obj\Debug\TheFinalXhair.Properties.Resources.resources
+c:\users\andrew\documents\visual studio 2012\Projects\TheFinalXhair\TheFinalXhair\obj\Debug\TheFinalXhair.csproj.GenerateResource.Cache
+c:\users\andrew\documents\visual studio 2012\Projects\TheFinalXhair\TheFinalXhair\obj\Debug\TheFinalXhair.exe
+c:\users\andrew\documents\visual studio 2012\Projects\TheFinalXhair\TheFinalXhair\obj\Debug\TheFinalXhair.pdb

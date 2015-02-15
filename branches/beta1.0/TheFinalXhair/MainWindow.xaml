@@ -1,0 +1,20 @@
+﻿<Window x:Class="TheFinalXhair.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        IsHitTestVisible="False" Title="MainWindow" Height="350" Width="525" Background="Transparent" AllowsTransparency="True" WindowStyle="None" Topmost="True">
+    <Grid IsHitTestVisible="False" Name="Grid" Margin="2,6,-2,-6">
+        <Line IsHitTestVisible="False" HorizontalAlignment="Center" VerticalAlignment="Center" x:Name="LineH"
+          X1="0"
+          Y1="0"
+          X2="30"
+          Y2="0" Stroke="Red"
+              />
+        <Line IsHitTestVisible="False" HorizontalAlignment="Center" VerticalAlignment="Center" x:Name="LineV"
+          Stroke="Red"
+          X1="0"
+          Y1="0"
+          X2="0"
+          Y2="30" 
+          />
+    </Grid>
+</Window>
