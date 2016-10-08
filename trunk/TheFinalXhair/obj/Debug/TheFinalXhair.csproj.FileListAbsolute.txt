@@ -23,3 +23,16 @@ C:\svn\TheFinalXhair\trunk\TheFinalXhair\obj\Debug\TheFinalXhair.csproj.Generate
 C:\svn\TheFinalXhair\trunk\TheFinalXhair\obj\Debug\TheFinalXhair.exe
 C:\svn\TheFinalXhair\trunk\TheFinalXhair\obj\Debug\TheFinalXhair.pdb
 C:\svn\TheFinalXhair\trunk\TheFinalXhair\obj\Debug\TheFinalXhair.csprojResolveAssemblyReference.cache
+C:\Users\erax0\Source\Repos\TheFinalXhair\trunk\TheFinalXhair\bin\Debug\TheFinalXhair.exe.config
+C:\Users\erax0\Source\Repos\TheFinalXhair\trunk\TheFinalXhair\obj\Debug\TheFinalXhair.exe
+C:\Users\erax0\Source\Repos\TheFinalXhair\trunk\TheFinalXhair\obj\Debug\TheFinalXhair.pdb
+C:\Users\erax0\Source\Repos\TheFinalXhair\trunk\TheFinalXhair\bin\Debug\TheFinalXhair.exe
+C:\Users\erax0\Source\Repos\TheFinalXhair\trunk\TheFinalXhair\bin\Debug\TheFinalXhair.pdb
+C:\Users\erax0\Source\Repos\TheFinalXhair\trunk\TheFinalXhair\obj\Debug\TheFinalXhair.csprojResolveAssemblyReference.cache
+C:\Users\erax0\Source\Repos\TheFinalXhair\trunk\TheFinalXhair\obj\Debug\MainWindow.baml
+C:\Users\erax0\Source\Repos\TheFinalXhair\trunk\TheFinalXhair\obj\Debug\MainWindow.g.cs
+C:\Users\erax0\Source\Repos\TheFinalXhair\trunk\TheFinalXhair\obj\Debug\App.g.cs
+C:\Users\erax0\Source\Repos\TheFinalXhair\trunk\TheFinalXhair\obj\Debug\TheFinalXhair_MarkupCompile.cache
+C:\Users\erax0\Source\Repos\TheFinalXhair\trunk\TheFinalXhair\obj\Debug\TheFinalXhair.g.resources
+C:\Users\erax0\Source\Repos\TheFinalXhair\trunk\TheFinalXhair\obj\Debug\TheFinalXhair.Properties.Resources.resources
+C:\Users\erax0\Source\Repos\TheFinalXhair\trunk\TheFinalXhair\obj\Debug\TheFinalXhair.csproj.GenerateResource.Cache
